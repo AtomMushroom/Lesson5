@@ -1,0 +1,13 @@
+/Users/user/Projects/Lesson_5Task2/Lesson_5Task2/bin/Debug/netcoreapp3.1/Lesson_5Task2.deps.json
+/Users/user/Projects/Lesson_5Task2/Lesson_5Task2/bin/Debug/netcoreapp3.1/Lesson_5Task2.runtimeconfig.json
+/Users/user/Projects/Lesson_5Task2/Lesson_5Task2/bin/Debug/netcoreapp3.1/Lesson_5Task2.runtimeconfig.dev.json
+/Users/user/Projects/Lesson_5Task2/Lesson_5Task2/bin/Debug/netcoreapp3.1/Lesson_5Task2.dll
+/Users/user/Projects/Lesson_5Task2/Lesson_5Task2/bin/Debug/netcoreapp3.1/Lesson_5Task2.pdb
+/Users/user/Projects/Lesson_5Task2/Lesson_5Task2/obj/Debug/netcoreapp3.1/Lesson_5Task2.csproj.AssemblyReference.cache
+/Users/user/Projects/Lesson_5Task2/Lesson_5Task2/obj/Debug/netcoreapp3.1/Lesson_5Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/Lesson_5Task2/Lesson_5Task2/obj/Debug/netcoreapp3.1/Lesson_5Task2.AssemblyInfoInputs.cache
+/Users/user/Projects/Lesson_5Task2/Lesson_5Task2/obj/Debug/netcoreapp3.1/Lesson_5Task2.AssemblyInfo.cs
+/Users/user/Projects/Lesson_5Task2/Lesson_5Task2/obj/Debug/netcoreapp3.1/Lesson_5Task2.csproj.CoreCompileInputs.cache
+/Users/user/Projects/Lesson_5Task2/Lesson_5Task2/obj/Debug/netcoreapp3.1/Lesson_5Task2.dll
+/Users/user/Projects/Lesson_5Task2/Lesson_5Task2/obj/Debug/netcoreapp3.1/Lesson_5Task2.pdb
+/Users/user/Projects/Lesson_5Task2/Lesson_5Task2/obj/Debug/netcoreapp3.1/Lesson_5Task2.genruntimeconfig.cache
